@@ -63,7 +63,7 @@ The dashboard includes interactive slicers that allow users to filter and analyz
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard](Sales_Dashboard.png)
+![Sales Dashboard](Sales Project-Dashboard(Excel).png)
 
 ## 💡 Key Skills Demonstrated
 
